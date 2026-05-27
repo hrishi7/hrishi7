@@ -1,111 +1,63 @@
-<h1 align="center">Hi, I'm Hrishikesh Baidya 👋</h1>
-<h3 align="center">Senior Full Stack Engineer | Backend, System Design & Scalable Products</h3>
+<h1 align="center">Hi there, I'm Hrishikesh Baidya! 👋</h1>
+<h3 align="center">Senior Full-Stack Engineer | GenAI & RAG Architect | SaaS Builder</h3>
 
 <p align="center">
-  <a href="https://hrishikeshbaidya.in">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/hrishikesh-baidya">LinkedIn</a> •
-  <a href="mailto:hrishikeshbaidya7@gmail.com">Email</a>
+  <a href="https://hrishikeshbaidya.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-hrishikeshbaidya.in-blue?style=for-the-badge&logo=googlechrome" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/hrishikesh-baidya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me: The Engineering Evolution
+I am a Senior Software Engineer with 6+ years of experience building and scaling SaaS products in fast-paced startup environments[cite: 1]. My engineering journey has been a continuous evolution of solving increasingly complex problems: 
+*   **Level 1:** Building foundational, highly polished CRUD applications with fluid, viewport-proportional frontends.
+*   **Level 2:** Architecting robust, event-driven background systems and message queues handling 10K+ daily transactions[cite: 1].
+*   **Level 3 (Current):** Orchestrating Generative AI, engineering production-ready RAG pipelines, and deploying multi-agent LLM workflows to automate complex business logic[cite: 1].
 
-I’m a **product-focused Full Stack Engineer with 5+ years of experience**, specializing in **backend architecture, distributed systems, and real-time applications**.
-
-I’ve built and scaled systems used across **500+ enterprise locations**, handled **10K+ daily workflows**, and shipped **production mobile apps** used by real users.
-
-I enjoy owning systems end-to-end, designing scalable architectures, and solving real-world problems.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-JavaScript, TypeScript  
-
-**Backend**  
-Node.js, Express.js, REST APIs, JWT Auth  
-Temporal.io, RabbitMQ, Redis, Elasticsearch  
-
-**Databases**  
-MongoDB (Mongoose), PostgreSQL  
-
-**Frontend**  
-React, Next.js, Redux, Vue.js, MUI, Quasar  
-
-**DevOps & Testing**  
-Docker, Kubernetes, Git, CI/CD  
-Jest, Enzyme, Postman  
+I don't just write code; I architect systems that balance performance, scalability, and exceptional user experiences. 
 
 ---
 
-## 💼 Professional Experience
+### 🔭 What I'm Shipping Right Now
 
-### **SDE II — Vizmo** *(Apr 2022 – Present | Remote)*
-- Built a **canvas-based floor visualization engine** using Konva.js with spatial clustering, zoom/pan, and geo-to-pixel transformations, supporting **1000+ interactive elements per layout**.
-- Engineered a **dynamic form builder and real-time room booking timeline** with recurrence rules, timezone-aware validation, and overnight booking detection across **500+ enterprise locations**.
-- Architected an **event-driven room booking platform** using **Temporal.io workflows**, approval state machines, delayed scheduling, and automated cancellations — reducing manual operations by **85%** and supporting **10K+ bookings/day**.
-- Designed a **multi-tenant digital register system** using **Casbin RBAC/PBAC**, SurveyJS dynamic forms, and Zod schema validation for configurable compliance workflows.
+*   🩺 **At Lingocare (Senior Software Engineer):** Spearheading an end-to-end Retrieval-Augmented Generation (RAG) pipeline[cite: 1]. I orchestrated a multi-agent LLM workflow utilizing Node.js, BullMQ, and MongoDB Atlas Vector Search that reduced manual medical content generation time by 90% while strictly adhering to GDPR compliance[cite: 1].
+*   🗣️ **Personal Project (Talkdrill):** Creator and lead developer of **Talkdrill**, a full-stack, real-time AI language learning application live in production[cite: 1]. It features AI-powered conversational agents built with OpenAI, live video/chat functionality, and event-driven push notifications[cite: 1].
+*   🏢 **Previously at Vizmo (SDE II):** Architected scalable, event-driven room booking systems utilizing Temporal.io workflows, and built a sophisticated canvas-based floor visualization engine processing 1000+ interactive spatial elements via Konva.js[cite: 1].
 
 ---
 
-### **Software Engineer — Appstone Pvt Ltd** *(Apr 2021 – Apr 2022 | Remote)*
-- Built a **Trello-style task management system** using Node.js, MongoDB, React, and Next.js.
-- Delivered scalable APIs and real-time UI that improved collaboration and task completion by **20–25%**.
+### 🛠️ The Tech Arsenal
+
+**AI & Data Infrastructure**
+`Generative AI Orchestration` • `RAG Pipelines` • `Multi-Agent LLMs` • `OpenAI / AWS Bedrock` • `MongoDB Atlas Vector Search` • `PostgreSQL`[cite: 1]
+
+**Backend & Architecture**
+`Node.js` • `Express.js` • `TypeScript` • `Event-Driven Architecture` • `Temporal.io` • `BullMQ`[cite: 1]
+
+**Frontend & UI Polishing**
+`React` • `Next.js` • `Vue.js` • `MUI` • `Tailwind` • `Figma (Viewport-proportional design)`[cite: 1]
+
+**Cloud & DevOps**
+`AWS EC2` • `Docker Containerization` • `CI/CD Pipelines` • `Git`[cite: 1]
 
 ---
 
-### **Full Stack Developer — EXTRA! Insights** *(Jun 2020 – Apr 2021)*
-- Scaled a **high-traffic content platform** using Node.js, MongoDB, Redis, and React.
-- Implemented cached news feeds and Reddit-style infinite comments.
-- Refactored backend to **TypeScript**, improving maintainability and long-term scalability.
-
----
-
-## 🧩 Featured Projects
-
-### 📘 **Bookspace — Distributed Backend System**
-🔗 https://github.com/hrishi7/bookspace  
-
-A production-grade backend showcasing **system design and scalability**:
-- API Gateway with JWT authentication and Redis rate limiting  
-- Auth, User, Document, and Worker microservices  
-- PostgreSQL and MongoDB data layers  
-- RabbitMQ-based async pipelines  
-- Elasticsearch full-text search  
-- S3 pre-signed uploads with background workers  
-
----
-
-### 🗣️ **TalkDrill — AI-Powered Language Learning App**
-📱 **Play Store:** https://play.google.com/store/apps/details?id=com.talkdrill.learner  
-
-A real-time language-learning and communication platform:
-- Node.js, Express, MongoDB backend  
-- React Native mobile application  
-- Video calls, real-time chat, and push notifications  
-- AI-powered characters for practice  
-- AI-driven conversational insights and performance reports  
-
----
-
-## 🎓 Education
-**B.Tech in Computer Science & Engineering**  
-Calcutta Institute of Engineering & Management *(2017 – 2020)*
-
----
-
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrishi7&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrishikeshbaidya&show_icons=true&theme=radical&hide_border=true" alt="Hrishikesh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikeshbaidya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishi7" />
-</p>
+*(Note: Replace `hrishikeshbaidya` in the image URLs above with your exact GitHub username to render the live stats widgets).*
 
 ---
 
-⭐ *Open to Full Stack, Backend, and Founding Engineer roles*
+### ⚡ Fun Fact & Philosophy
+I believe the best engineers are lazy in the right way—we build complex pipelines (like multi-agent LLM workflows and automated CI/CD) precisely so we don't have to do things manually twice. Always building, always optimizing. 
+
+📫 **Let's talk architecture, GenAI, or SaaS scaling:** Reach out at [hrishikeshbaidya7@gmail.com](mailto:hrishikeshbaidya7@gmail.com)[cite: 1].
